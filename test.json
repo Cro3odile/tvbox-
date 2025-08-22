@@ -5,7 +5,6 @@
       "name": "暴风",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "https://vip.vipuuvip.com/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -27,8 +26,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 1,
+      "url": "https://vip.vipuuvip.com/?url="
     }
   ],
   "flags": [
